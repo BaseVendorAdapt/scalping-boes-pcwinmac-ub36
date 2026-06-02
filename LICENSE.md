@@ -1,4 +1,4 @@
-# 
+# 新 scalping bot for derivatives 工作流 Mac OS版 | 高级 scalping bot for derivatives 工作流 PC Windows版。集成 交易批处理 和 止损单，跨平台性能最大化。
 
 
 
